@@ -31,7 +31,7 @@ twitter_username: codetholdory
 github_username:  codetholdory
 
 # Build settings
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
