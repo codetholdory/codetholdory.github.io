@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "New Site"
+date:   2022-11-27 
+categories: update
+---
+This is the new site for codetholdory, expect to see information on programming, Python, code snippets.
