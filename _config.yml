@@ -20,8 +20,8 @@
 
 title: codetholdory
 #email: vjloy2nu@duck.com
-#description: >- # this means to ignore newlines until "baseurl:"
-  homepage for codetholdory, 
+description: >- # this means to ignore newlines until "baseurl:"
+  homepage for codetholdory, python developer.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: https://codetholdory.github.io
 domain: codetholdory.github.io
