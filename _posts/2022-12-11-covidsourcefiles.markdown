@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Covid-19 Data"
-date:   2022-11-27 
+date:   2022-12-11 
 categories: Covid-19 Covid GitHub Python Data
 ---
 Right, I've been meaning to do this for some time now.
